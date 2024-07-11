@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ModularGameplayData.cpp.obj": [
+			"ModularGameplayData.init.gen.cpp.obj",
+			"ModularInputConfigComponent.cpp.obj",
+			"ModularAssetManager.cpp.obj",
+			"ModularAssetManagerStartupJob.cpp.obj",
+			"ModularGameData.cpp.obj",
+			"ModularInputConfig.cpp.obj",
+			"ModularPawnData.cpp.obj",
+			"ModularInputModifiers.cpp.obj",
+			"GameFeatureAction_AddInputContextMapping.cpp.obj",
+			"GameFeatureAction_WorldActionBase.cpp.obj",
+			"ModularBundles.cpp.obj",
+			"ModularGameplayData.cpp.obj"
+		]
+	}
+}
